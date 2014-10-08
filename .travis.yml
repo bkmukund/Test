@@ -1,3 +1,4 @@
+worker: worker-linux-12-1.bb.travis-ci.org:travis-linux-1
 language: java
 jdk:
   - openjdk7
