@@ -6,8 +6,6 @@ jdk:
   - openjdk7
   - openjdk6
   
-ant compile
-ant jar
 ant run
   
   
