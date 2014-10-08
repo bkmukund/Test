@@ -1,6 +1,7 @@
 language: java
 
-install openjdk7
+jdk:
+  - oraclejdk8
 
   javac Hello.java
   java Hello
