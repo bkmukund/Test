@@ -3,7 +3,7 @@
         travis stuff
     </description>
  
-  <property name="src" location="src"/>
+  <property name="src" location="Main.java"/>
   <property name="build" location="build"/>
   <property name="dist"  location="dist"/>
   <property name="test"  location="test"/>
@@ -24,7 +24,7 @@
   </target>
  
   <target name="compile" depends="init" description="compile">
-    <javac srcdir="Hello.java" destdir="${build}/main"/>
+    <javac srcdir="${src}" destdir="${build}/main"/>
     <javac srcdir="${test}" destdir="${build}/test">
       <classpath>
         <pathelement location="${junit}"/>
