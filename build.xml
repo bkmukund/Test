@@ -3,7 +3,7 @@
         travis stuff
     </description>
  
-  <property name="src" location="Test/Main.java"/>
+  <property name="src" location="Test"/>
   <property name="build" location="build"/>
   <property name="dist"  location="dist"/>
   <property name="test"  location="test"/>
