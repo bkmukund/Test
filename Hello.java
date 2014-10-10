@@ -1,4 +1,4 @@
-package com.java.test
+package com.java.test;
 class Hello{
 
 public static void main(String arg[]){
