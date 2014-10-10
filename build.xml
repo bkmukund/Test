@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-   <project name="Test" default="Hello.java">
-   <target name="Test">
-      <echo>Hello World </echo>
-   </target>
-</project>
