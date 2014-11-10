@@ -6,4 +6,5 @@ public class Main {
 
     public statis void an(){
     }
+    public
 }
