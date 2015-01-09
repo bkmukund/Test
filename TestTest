@@ -7,4 +7,9 @@ public class TestTest {
     public void testTest() {
         assertTrue(1 == 1);
     }
+
+        @Test
+    public void testTest1() {
+        assertTrue(1 == 1);
+    }
 }
